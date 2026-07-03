@@ -6,17 +6,17 @@ I am currently working as a postdoctoral fellow at the <a href="https://med.nyu.
 
 # About me
 ---
-Download <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+Here is my <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
 ## Employment
 - February 2024 - present: **Postdoctoral Fellow** at the _University of Augsburg_, Augsburg, Germany 
 - October 2023 - January 2024: **Research Associate** at the _Tata Institute of Fundamental Research_, Mumbai, India
 
 ## Education
-- 2019 - 2023: **Doctor of Philosophy** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India [Thesis: [Study and control of light transport in nonlinear disordered media]
+- 2019 - 2023: **Doctor of Philosophy** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India [Thesis: Study and control of light transport in nonlinear disordered media]
 - 2016 - 2019: **Master of Science** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India.
 - 2013 - 2016: **Bachelor of Science** (Physics), _Midnapore College (Autonomous)_, Medinipur, W.B., India.
----
+
 
 # Research 
 ---
