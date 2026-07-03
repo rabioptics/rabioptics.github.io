@@ -1,11 +1,21 @@
-# About
----
+
 <p align="justify">
 I am currently working as a postdoctoral fellow at the <a href="https://med.nyu.edu/research/srinivasan-lab/" target="_blank" rel="noopener noreferrer">Neurophotonics Lab</a> (PI: Prof. Vivek Srinivasan) at  <a href="https://med.nyu.edu/" target="_blank" rel="noopener noreferrer">NYU Grossman School of Medicine</a> in New York City, USA. In this lab, I am using various interferometric diffuse optics techniques to study blood flow in the brain and other areas non-invasively.  I am also a part of the National Center for Interventional Biophotonic Technologies (NCIBT) at UC Davis, CA, USA [Link]. Before this position, I  earned an Integrated M.Sc.+Ph.D. degree in Physics from <em>Tata Institute of Fundamental Research (TIFR)</em>, Mumbai, India, under the guidance of <a href="https://www.tifr.res.in/nomol/" target="_blank" rel="noopener noreferrer">Prof. Sushil Mujumdar</a>, and a bachelor's degree in Physics from Midnapore College, West Bengal, India. 
   
 </p>
-- See my [CV](https://rabioptics.github.io/cv).
 
+# About me
+---
+Download <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+
+## Employment
+- February 2024 - present: **Postdoctoral Fellow** at the _University of Augsburg_, Augsburg, Germany 
+- October 2023 - January 2024: **Research Associate** at the _Tata Institute of Fundamental Research_, Mumbai, India
+
+## Education
+- 2019 - 2023: **Doctor of Philosophy** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India [Thesis: [Study and control of light transport in nonlinear disordered media]
+- 2016 - 2019: **Master of Science** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India.
+- 2013 - 2016: **Bachelor of Science** (Physics), _Midnapore College (Autonomous)_, Medinipur, W.B., India.
 ---
 
 # Research 
