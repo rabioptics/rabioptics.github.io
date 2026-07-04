@@ -21,7 +21,7 @@ Here is my <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener nore
 # Research 
 ---
 <p align="justify">
-My research concerns non-equilibrium phenomena in quantum many-body systems. It ranges from studies of the dynamics of quantum systems starting from non-thermal initial states to controlling material properties via cavity-induced non-equilibrium steady states. Non-equilibrium field theory is my primary method of investigation.
+Building on a strong PhD foundation in diffuse optics, my current research utilizes interferometric methods to noninvasively study brain blood flow and deep tissue hemodynamics. Recently, my focus has shifted toward translating lab-scale research into affordable, low-cost clinical devices.
 </p>
 - Learn more about my [research](https://rabioptics.github.io/research).
 - See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> \.
@@ -35,6 +35,7 @@ Tech4Health Institute, NYU Langone Health\
 45-18 Court Sq. W., Long Island City\
 New York 11101, USA\
 Email: rabisankar.samanta@nyulangone.org\
+Email: rabisankar.samanta96@gmail.com\
 Social: <a href="https://www.researchgate.net/profile/Rabisankar-Samanta" target="_blank" rel="noopener noreferrer">ResearchGate</a> | <a href="https://www.linkedin.com/in/rabisankar-samanta-82243b12a/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
