@@ -24,7 +24,7 @@ Here is my <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener nore
 My research concerns non-equilibrium phenomena in quantum many-body systems. It ranges from studies of the dynamics of quantum systems starting from non-thermal initial states to controlling material properties via cavity-induced non-equilibrium steady states. Non-equilibrium field theory is my primary method of investigation.
 </p>
 - Learn more about my [research](https://rabioptics.github.io/research).
-- See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0000-0002-0992-5531" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> \| <a href="https://arxiv.org/a/islam_m_4.html" target="_blank" rel="noopener noreferrer">arXiv</a>.
+- See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> \.
 
 ---
 
