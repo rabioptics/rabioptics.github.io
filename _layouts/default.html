@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+
+        <!-- Site-wide logo below description -->
+        <p>
+          <img src="/assets/img/logo.png" alt="Site Logo" width="240">
+        </p>
+
+        <!-- Navigation menu -->
+          <nav>
+            <a href="{{ '/' | absolute_url }}">Home</a> |
+            <a href="{{ '/cv' | relative_url }}">CV</a> |
+            <a href="{{ '/research' | relative_url }}">Research</a> |
+            <a href="{{ '/publications' | relative_url }}">Publications</a> |
+            <a href="{{ '/misc' | relative_url }}">Presentations</a> 
+          </nav>
+          <!-- Dark/Light toggle
+          <button id="toggle-dark" style="margin-top:10px;">🌙 Toggle Dark/Light</button> -->
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <!-- Footer -->
+      <footer>
+        <p>
+          <!-- Social icons -->
+          <a href="https://orcid.org/0000-0002-0992-5531" target="_blank" rel="noopener noreferrer" title="ORCID">
+            <!--<i class="fab fa-orcid fa-2x"></i>-->
+            <i class="ai ai-orcid ai-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?hl=en&user=K5gZKkQAAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+            <i class="fas fa-graduation-cap fa-2x"></i>
+            <!--<i class="ai ai-google-scholar ai-2x"></i>-->
+          <!--
+          </a>
+          <a href="https://arxiv.org/a/islam_m_4.html" target="_blank" rel="noopener noreferrer" title="arXiv">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" width="25" height="25" style="vertical-align:middle; fill:currentColor; position:relative; top:-7px;">
+              <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160L224 0H64zm96 232c0-6.6 5.4-12 12-12h140c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H172c-6.6 0-12-5.4-12-12v-8zm0 64c0-6.6 5.4-12 12-12h140c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H172c-6.6 0-12-5.4-12-12v-8zm0 64c0-6.6 5.4-12 12-12h140c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H172c-6.6 0-12-5.4-12-12v-8z"/>
+            </svg>
+          </a>
+          -->
+          <a href="https://arxiv.org/a/islam_m_4.html" target="_blank" rel="noopener noreferrer" title="arXiv">
+             <i class="ai ai-arxiv ai-2x"></i>
+          </a>
+          <a href="https://www.researchgate.net/profile/Md-Mursalin-Islam" target="_blank" rel="noopener noreferrer" title="ResearchGate">
+            <i class="fab fa-researchgate fa-2x"></i>
+            <!--<i class="ai ai-researchgate"></i>-->
+          </a>
+          <a href="https://www.linkedin.com/in/mursalin-islam-physics/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+            <i class="fab fa-linkedin fa-2x"></i>
+          </a>
+          <a href="https://github.com/miphysics" target="_blank" rel="noopener noreferrer" title="GitHub">
+            <i class="fab fa-github fa-2x"></i>
+          </a>
+          <!--
+          <a href="https://discord.com/users/islam_mursalin" target="_blank" title="Discord">
+            <i class="fab fa-discord fa-2x"></i>
+          </a>-->
+        </p>
+         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}.</p>
+      </footer>
+    </div>
+    <!---<script>
+      const toggle = document.getElementById('toggle-dark');
+      const body = document.body;
+
+      // Check localStorage for saved preference
+      if (localStorage.getItem('dark-mode') === 'true') {
+        body.classList.add('dark-mode');
+      }
+
+      // Toggle dark mode on button click
+      toggle.addEventListener('click', () => {
+      body.classList.toggle('dark-mode');
+      localStorage.setItem('dark-mode', body.classList.contains('dark-mode'));
+      });
+    </script>--->
+  </body>
+</html>
