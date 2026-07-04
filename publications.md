@@ -1,6 +1,6 @@
 # Publications
 ---
-See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> Google Scholar</a>. \ 
 (^ Equal contribution)
 
 ## Preprints
@@ -15,7 +15,7 @@ See my [list of publications](https://rabioptics.github.io/publications) on <a h
   
 - <a href="https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=ol&uri=ol-48-16-4241&html=true" target="_blank" rel="noopener noreferrer"> Optics Letters  48, 4241-4244(2023)</a>: _Controlling the transmission of broadband light through scattering media using a Digital Micromirror Device_, **R. Samanta** and S. Mujumdar
 
-- <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.054047" target="_blank" rel="noopener noreferrer">Phys. Rev. Applied 18, 054047(2022)</a>: _Speckle decorrelation in fundamental and second-harmonic light scattered from nonlinear disorder _, **R. Samanta**, R. Pierrat, R. Carminati and S. Mujumdar
+- <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.054047" target="_blank" rel="noopener noreferrer">Phys. Rev. Applied 18, 054047(2022)</a>: _Speckle decorrelation in fundamental and second-harmonic light scattered from nonlinear disorder_, **R. Samanta**, R. Pierrat, R. Carminati and S. Mujumdar
 
 - <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-59-36-11266" target="_blank" rel="noopener noreferrer">Appl. Opt.  59, 11266-11272 (2020)</a>: _Intensity-dependent speckle contrast of second harmonic light in a nonlinear disordered medium_, **R. Samanta** and S. Mujumdar. 
   
