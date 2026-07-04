@@ -1,6 +1,7 @@
 # Publications
 ---
-See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> Google Scholar</a>. \ 
+See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> Google Scholar</a>. 
+---
 (^ Equal contribution)
 
 ## Preprints
