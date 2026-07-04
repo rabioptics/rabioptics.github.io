@@ -6,10 +6,10 @@ I am currently working as a postdoctoral fellow at the <a href="https://med.nyu.
 
 # About me
 ---
-Here is my <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+Here is my <a href="/assets/docs/Rabi_CV.pdf" target="_blank" rel="noopener noreferrer">CV </a> [last updated July 2026].
 
 ## Employment
-- February 2024 - present: **Postdoctoral Fellow** at the _University of Augsburg_, Augsburg, Germany 
+- February 2024 - present: **Postdoctoral Fellow** at the _Department of Ophthalmology and Tech4Health Institute, NYU Langone Health_, New York, USA 
 - October 2023 - January 2024: **Research Associate** at the _Tata Institute of Fundamental Research_, Mumbai, India
 
 ## Education
