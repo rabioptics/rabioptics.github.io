@@ -4,7 +4,7 @@ I am currently working as a postdoctoral fellow at the <a href="https://med.nyu.
   
 </p>
 ---
-Here is my <a href="/assets/docs/Rabi_CV_academic.pdf" target="_blank" rel="noopener noreferrer">CV</a>  [last updated July 2026].
+Here is my <a href="/assets/doc/Rabi_CV_academic.pdf" target="_blank" rel="noopener noreferrer">CV</a>  [last updated July 2026].
 
 ## Employment
 - February 2024 - present: **Postdoctoral Fellow** at the _Department of Ophthalmology and Tech4Health Institute, NYU Langone Health_, New York, USA 
