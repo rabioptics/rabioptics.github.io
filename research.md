@@ -8,8 +8,8 @@ My research concerns non-equilibrium phenomena in quantum many-body systems. It 
 ---
 ## Interferometric diffuse optics for deep tissue hemodynamics
 <!-- HTML inside Markdown -->
-<img src="\assets\img\setup0.png" width="200">
-<p align="justify">
+<!--<img src="\assets\img\setup0.png" width="200">
+<p align="justify">-->
 
 </p>
 
@@ -20,8 +20,8 @@ _Relevent publications_:
 --------
 ## Interferometric diffuse optics for mesoscopic imaging
 <!-- HTML inside Markdown -->
-<img src="\assets\img\setup0.png" width="200">
-<p align="justify">
+<!--<img src="\assets\img\setup0.png" width="200">
+<p align="justify">-->
 
 </p>
 
