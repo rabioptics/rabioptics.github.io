@@ -1,6 +1,11 @@
 # Research
 ---
-My research can be categorized into two groups:
+<p align="justify">
+Building on a strong PhD foundation in diffuse optics, my current research utilizes interferometric methods to noninvasively study brain blood flow and deep tissue hemodynamics. Recently, my focus has shifted toward translating lab-scale research into affordable, low-cost clinical devices.
+</p>
+
+See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> \.
+Broadly, my research can be categorized into two groups:
 - Tissue optics (NIRS, DCS/DWS, TD-NIRS, iNIRS, iDWS): _aim for practical applications_
 - Transport in linear and nonlinear disordered media (SHG, Wavefront shaping, Speckle): _fundamental studies with possible applications_
 <!--See my [list of publications](https://miphysics.github.io/publications) on [ORCID](https://orcid.org/0000-0002-0992-5531) | [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ) | [arXiv](https://arxiv.org/a/islam_m_4.html).-->
