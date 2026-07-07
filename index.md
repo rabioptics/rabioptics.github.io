@@ -16,7 +16,7 @@ Here is my <a href="/assets/doc/Rabi_CV_academic.pdf" target="_blank" rel="noope
 - 2013 - 2016: **Bachelor of Science** (Physics), _Midnapore College (Autonomous)_, Medinipur, W.B., India.
 
 
-# Updates 
+# News & Updates 
 ---
 
 
