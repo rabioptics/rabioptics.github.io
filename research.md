@@ -7,7 +7,7 @@ My research can be categorized into two groups:
 
 ---
 
-# Tissue Optics
+Current projects
 ## Interferometric diffuse optics for deep tissue hemodynamics
 <!-- HTML inside Markdown -->
 <!--<img src="\assets\img\setup0.png" width="200">
@@ -28,7 +28,8 @@ _Relevent publications_:
 
 
 ---
-# Transport in linear and nonlinear disordered media
+Past projects: _during PhD_
+
 ## Light transport in second-order nonlinear disordered media 
 <p align="justify">
 A scattering medium scrambles the incoming wavefront and creates a speckle pattern. In this project, we studied photon transport in scattering media composed of nonlinear scatterers, specifically second-order nonlinearity. This type of medium generates speckle patterns of both the harmonics. We explored the spatial and temporal diffusion in finite-sized nonlinear disordered media. Subsequently, we explored speckle correlation for both the harmonics.
