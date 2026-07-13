@@ -19,19 +19,19 @@ Current projects
 <!--<img src="\assets\img\setup0.png" width="200">
 <p align="justify">-->
 
-</p>
+_to be updated_
 
 _Relevent publications_:
 - <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-7-2382" target="_blank" rel="noopener noreferrer">Optics Letters 50, 2382-2385(2025)</a>: _1060 nm interferometric near-infrared spectroscopy_, D. Mazumder, S. Aparanji, O. Kholiqov, D. Hamilton,  **R. Samanta** and V. J. Srinivasan <a href="/assets/doc/Opt_Lett_April_2025.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-  
+
 
 ## Interferometric diffuse optics for mesoscopic imaging
 <!-- HTML inside Markdown -->
 <!--<img src="\assets\img\setup0.png" width="200">
 <p align="justify">-->
 
-</p>
 
+_to be updated_
 
 ---
 Past projects: _during PhD_
