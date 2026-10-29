@@ -2,19 +2,21 @@
 
 See my [list of publications](https://rabioptics.github.io/publications) on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> Google Scholar</a>. 
 
-(^ Equal contribution)
+(^ Equal contribution, + corresponding author)
 
 ## Patents
 
 ## Preprints
-- <a href="https://arxiv.org/abs/2504.14589" target="_blank" rel="noopener noreferrer"> arXiv:2504.14589 </a>: _Second-order nonlinear disordered photonic media_, **R. Samanta^**, R. Savo^, C. Conti and S. Mujumdar
+
 
 ## Journal articles
-- <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-7-2382" target="_blank" rel="noopener noreferrer">Optics Letters 50, 2382-2385(2025)</a>: _1060 nm interferometric near-infrared spectroscopy_, D. Mazumder, S. Aparanji, O. Kholiqov, D. Hamilton,  **R. Samanta** and V. J. Srinivasan 
+- **R. Samanta^**, R. Savo^, C. Conti and S. Mujumdar,  _Second-order nonlinear disordered photonic media_, <a href="https://arxiv.org/abs/2504.14589" target="_blank" rel="noopener noreferrer"> Nat. Rev Phys. (in press) </a>
+
+- D. Mazumder, S. Aparanji, O. Kholiqov, D. Hamilton,  **R. Samanta** and V. J. Srinivasan, _1060 nm interferometric near-infrared spectroscopy_, <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-7-2382" target="_blank" rel="noopener noreferrer">Optics Letters 50, 2382-2385(2025)</a>
    
-- <a href="http://sciencedirect.com/science/article/pii/S0030401824002864" target="_blank" rel="noopener noreferrer">Optics Communications 563, 130549(2024)</a>: _Interference among the neighboring sub-micron size harmonic particles_, **R. Samanta**, S. K. Upadhyay and S. Mujumdar 
+- **R. Samanta**, S. K. Upadhyay and S. Mujumdar, _Interference among the neighboring sub-micron size harmonic particles_, <a href="http://sciencedirect.com/science/article/pii/S0030401824002864" target="_blank" rel="noopener noreferrer">Optics Communications 563, 130549(2024)</a>
   
-- <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.053501" target="_blank" rel="noopener noreferrer">Phys. Rev. A  108, 053501(2023)</a>: _Photon diffusion in space and time in a second-order nonlinear disordered medium_, **R. Samanta**, R. Pierrat, R. Carminati and S. Mujumdar <a href="https://arxiv.org/abs/2305.16720" target="_blank" rel="noopener noreferrer">[arXiv]</a>
+-**R. Samanta**, R. Pierrat, R. Carminati and S. Mujumdar,  _Photon diffusion in space and time in a second-order nonlinear disordered medium_,  <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.053501" target="_blank" rel="noopener noreferrer">Phys. Rev. A  108, 053501(2023)</a><a href="https://arxiv.org/abs/2305.16720" target="_blank" rel="noopener noreferrer">[arXiv]</a>
   
 - <a href="https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=ol&uri=ol-48-16-4241&html=true" target="_blank" rel="noopener noreferrer"> Optics Letters  48, 4241-4244(2023)</a>: _Controlling the transmission of broadband light through scattering media using a Digital Micromirror Device_, **R. Samanta** and S. Mujumdar
   
