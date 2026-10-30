@@ -4,10 +4,6 @@ See my [list of publications](https://rabioptics.github.io/publications) on <a h
 
 (^ Equal contribution)
 
-## Patents
-
-## Preprints
-
 ## Journal articles
 - **R. Samanta^**, R. Savo^, C. Conti and S. Mujumdar,  _Second-order nonlinear disordered photonic media_, Nat. Rev. Phys. (in press) <a href="https://arxiv.org/abs/2504.14589" target="_blank" rel="noopener noreferrer">[arXiv]</a>.
 
