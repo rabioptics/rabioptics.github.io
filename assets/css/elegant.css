@@ -351,3 +351,31 @@ body.academic-site .site-footer p {
     transform: none;
   }
 }
+/* Keep the profile content aligned at the top */
+body.academic-site header.profile {
+  align-self: start;
+}
+
+/* Social icons immediately below the navigation */
+.academic-site .profile-links {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+
+.academic-site .profile-links .social-links {
+  justify-content: flex-start;
+}
+
+body.academic-site .profile-links .copyright {
+  margin: 16px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* Center the icons on mobile */
+@media (max-width: 800px) {
+  .academic-site .profile-links .social-links {
+    justify-content: center;
+  }
+}
