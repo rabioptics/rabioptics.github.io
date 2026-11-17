@@ -379,3 +379,7 @@ body.academic-site .profile-links .copyright {
     justify-content: center;
   }
 }
+/* Increase the gap between navigation and the icon panel */
+.academic-site .profile-links {
+  margin-top: 32px;
+}
