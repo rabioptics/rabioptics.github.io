@@ -56,68 +56,72 @@
           <a href="{{ '/about' | relative_url }}">About me</a>
           <a href="{{ '/research' | relative_url }}">Research</a>
           <a href="{{ '/publications' | relative_url }}">Publications</a>
-        </nav>
+               </nav>
+
+        <!-- Social icons directly below the navigation -->
+        <div class="profile-links">
+          <div class="social-links">
+            <a
+              href="https://orcid.org/0009-0007-0682-0463"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="ORCID"
+              title="ORCID"
+            >
+              <i class="ai ai-orcid" aria-hidden="true"></i>
+            </a>
+
+            <a
+              href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Google Scholar"
+              title="Google Scholar"
+            >
+              <i class="ai ai-google-scholar" aria-hidden="true"></i>
+            </a>
+
+            <a
+              href="https://www.researchgate.net/profile/Rabisankar-Samanta"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="ResearchGate"
+              title="ResearchGate"
+            >
+              <i class="fab fa-researchgate" aria-hidden="true"></i>
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/rabisankar-samanta-82243b12a/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="LinkedIn"
+              title="LinkedIn"
+            >
+              <i class="fab fa-linkedin" aria-hidden="true"></i>
+            </a>
+
+            <a
+              href="https://github.com/rabioptics"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="GitHub"
+              title="GitHub"
+            >
+              <i class="fab fa-github" aria-hidden="true"></i>
+            </a>
+          </div>
+
+          <p class="copyright">
+            &copy; {{ site.time | date: "%Y" }} {{ site.title }}.
+          </p>
+        </div>
       </header>
 
       <main id="main-content" class="main-content">
         {{ content }}
       </main>
 
-      <footer class="site-footer">
-        <div class="social-links" aria-label="Academic and social profiles">
-          <a
-            href="https://orcid.org/0009-0007-0682-0463"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="ORCID"
-            title="ORCID"
-          >
-            <i class="ai ai-orcid" aria-hidden="true"></i>
-          </a>
-
-          <a
-            href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Google Scholar"
-            title="Google Scholar"
-          >
-            <i class="ai ai-google-scholar" aria-hidden="true"></i>
-          </a>
-
-          <a
-            href="https://www.researchgate.net/profile/Rabisankar-Samanta"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="ResearchGate"
-            title="ResearchGate"
-          >
-            <i class="fab fa-researchgate" aria-hidden="true"></i>
-          </a>
-
-          <a
-            href="https://www.linkedin.com/in/rabisankar-samanta-82243b12a/"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="LinkedIn"
-            title="LinkedIn"
-          >
-            <i class="fab fa-linkedin" aria-hidden="true"></i>
-          </a>
-
-          <a
-            href="https://github.com/rabioptics"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="GitHub"
-            title="GitHub"
-          >
-            <i class="fab fa-github" aria-hidden="true"></i>
-          </a>
-        </div>
-
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}.</p>
-      </footer>
     </div>
   </body>
 </html>
