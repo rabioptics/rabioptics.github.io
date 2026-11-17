@@ -2,10 +2,10 @@
 
 See my list of publications on <a href="https://orcid.org/0009-0007-0682-0463" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com/citations?user=u8VgoyIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"> Google Scholar</a>. 
 
-(^ Equal contribution)
+( <sup>+</sup> Equal contribution, )
 
 ## Journal articles
-- **R. Samanta^**, R. Savo^, C. Conti and S. Mujumdar,  _Second-order nonlinear disordered photonic media_, Nat. Rev. Phys. (in press) <a href="https://arxiv.org/abs/2504.14589" target="_blank" rel="noopener noreferrer">[arXiv]</a>.
+- **R. Samanta**<sup>+</sup>, R. Savo<sup>+</sup>, C. Conti and S. Mujumdar,  _Second-order nonlinear disordered photonic media_, Nat. Rev. Phys. (in press) <a href="https://arxiv.org/abs/2504.14589" target="_blank" rel="noopener noreferrer">[arXiv]</a>.
 
 - D. Mazumder, S. Aparanji, O. Kholiqov, D. Hamilton,  **R. Samanta** and V. J. Srinivasan, _1060 nm interferometric near-infrared spectroscopy_, <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-7-2382" target="_blank" rel="noopener noreferrer">Optics Letters 50, 2382-2385(2025)</a>.
    
