@@ -383,3 +383,32 @@ body.academic-site .profile-links .copyright {
 .academic-site .profile-links {
   margin-top: 32px;
 }
+
+/* Justify paragraphs and list entries */
+body.academic-site .main-content p,
+body.academic-site .main-content li {
+  text-align: justify;
+  text-align-last: left;
+  hyphens: auto;
+}
+
+/* Add breathing room between list entries */
+body.academic-site .main-content li {
+  margin-bottom: 14px;
+}
+
+/* Keep headings left-aligned */
+body.academic-site .main-content h1,
+body.academic-site .main-content h2,
+body.academic-site .main-content h3 {
+  text-align: left;
+}
+
+/* Left alignment is easier to read on narrow screens */
+@media (max-width: 600px) {
+  body.academic-site .main-content p,
+  body.academic-site .main-content li {
+    text-align: left;
+    hyphens: none;
+  }
+}
