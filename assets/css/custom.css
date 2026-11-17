@@ -13,3 +13,19 @@ body.dark-mode footer {
   background-color: #1e1e1e;
   color: #e0e0e0;
 }
+
+/* Dark text in light mode only */
+body:not(.dark-mode) {
+  color: #222222;
+}
+
+body:not(.dark-mode) h1,
+body:not(.dark-mode) h2,
+body:not(.dark-mode) h3,
+body:not(.dark-mode) h4,
+body:not(.dark-mode) h5,
+body:not(.dark-mode) h6,
+body:not(.dark-mode) header p,
+body:not(.dark-mode) footer p {
+  color: #222222;
+}
