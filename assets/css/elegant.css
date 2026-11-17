@@ -16,7 +16,7 @@ body.academic-site {
   background: var(--page-bg);
   color: var(--text);
   font-family: "Inter", Arial, sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.8;
   -webkit-font-smoothing: antialiased;
 }
@@ -410,5 +410,16 @@ body.academic-site .main-content h3 {
   body.academic-site .main-content li {
     text-align: left;
     hyphens: none;
+  }
+}
+/* Display the website at a slightly smaller scale */
+body.academic-site {
+  zoom: 0.9;
+}
+
+/* Keep normal-sized text on phones */
+@media (max-width: 600px) {
+  body.academic-site {
+    zoom: 1;
   }
 }
