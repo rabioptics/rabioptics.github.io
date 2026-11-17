@@ -5,7 +5,7 @@ See my list of publications on <a href="https://orcid.org/0009-0007-0682-0463" t
 ( <sup>+</sup> Equal contribution, )
 
 ## Journal articles
-<p style="text-align: justify;">
+
 - **R. Samanta**<sup>+</sup>, R. Savo<sup>+</sup>, C. Conti and S. Mujumdar,  _Second-order nonlinear disordered photonic media_, Nat. Rev. Phys. (in press) <a href="https://arxiv.org/abs/2504.14589" target="_blank" rel="noopener noreferrer">[arXiv]</a>.
 
 - D. Mazumder, S. Aparanji, O. Kholiqov, D. Hamilton,  **R. Samanta** and V. J. Srinivasan, _1060 nm interferometric near-infrared spectroscopy_, <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-50-7-2382" target="_blank" rel="noopener noreferrer">Optics Letters 50, 2382-2385(2025)</a>.
@@ -19,7 +19,7 @@ See my list of publications on <a href="https://orcid.org/0009-0007-0682-0463" t
 - **R. Samanta**, R. Pierrat, R. Carminati and S. Mujumdar, _Speckle decorrelation in fundamental and second-harmonic light scattered from nonlinear disorder_, <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.054047" target="_blank" rel="noopener noreferrer">Phys. Rev. Applied 18, 054047(2022)</a> <a href="https://arxiv.org/abs/2107.08736" target="_blank" rel="noopener noreferrer">[arXiv]</a>.
 
 - **R. Samanta** and S. Mujumdar, _Intensity-dependent speckle contrast of second harmonic light in a nonlinear disordered medium_, <a href="https://opg.optica.org/ao/abstract.cfm?uri=ao-59-36-11266" target="_blank" rel="noopener noreferrer">Appl. Opt.  59, 11266-11272 (2020)</a>.
-  </p>
+ 
   
 ## Book Chapters
 
