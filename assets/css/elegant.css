@@ -423,104 +423,109 @@ body.academic-site {
     zoom: 1;
   }
 }
-/* ==========================
-   About page: CV timeline
-   ========================== */
-
-.academic-site .cv-timeline {
-  --timeline-blue: #2862cf;
+/* Timeline background, matching the reference */
+body.academic-site .main-content .cv-timeline {
+  --cv-blue: #2862cf;
+  --cv-background: #f6f7f8;
 
   position: relative;
-  margin: 26px 0 40px 10px;
-  padding: 0 0 0 26px;
-  border-left: 2px solid var(--timeline-blue);
+  margin: 24px 0 36px;
+  padding: 24px 24px 12px 58px;
+  border: 0;
+  border-radius: 0;
+  background: var(--cv-background);
 }
 
-.academic-site .cv-entry {
+/* Continuous vertical blue line */
+body.academic-site .main-content .cv-timeline::before {
+  content: "";
+  position: absolute;
+  left: 33px;
+  top: 34px;
+  bottom: 24px;
+  width: 2px;
+  background: var(--cv-blue);
+}
+
+/* Individual timeline entry */
+body.academic-site .main-content .cv-entry {
   position: relative;
+  margin: 0;
   padding: 0 0 34px;
 }
 
-.academic-site .cv-entry:last-child {
+body.academic-site .main-content .cv-entry:last-child {
   padding-bottom: 12px;
 }
 
-/* Outlined circle on the vertical line */
-.academic-site .cv-entry::before {
+/* Hollow blue circle */
+body.academic-site .main-content .cv-entry::before {
   content: "";
   position: absolute;
-  left: -36px;
+  box-sizing: border-box;
+  left: -33px;
   top: 5px;
   width: 18px;
   height: 18px;
-  background: var(--panel-bg);
-  border: 2px solid var(--timeline-blue);
+  border: 2px solid var(--cv-blue);
   border-radius: 50%;
+  background: var(--cv-background);
 }
 
-/* Blue institution name */
+/* Institution heading */
 body.academic-site .main-content .cv-institution {
   margin: 0 0 8px;
-  color: var(--timeline-blue);
+  color: var(--cv-blue);
   font-family: "Inter", Arial, sans-serif;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.45;
+  letter-spacing: 0;
   text-transform: uppercase;
-  letter-spacing: 0.2px;
 }
 
-/* Date label */
-.academic-site .cv-date {
+/* White date box */
+body.academic-site .main-content .cv-date {
   display: inline-block;
-  margin-bottom: 12px;
-  padding: 3px 12px;
-  background: var(--page-bg);
-  color: var(--text);
-  font-size: 15px;
+  margin: 0 0 14px;
+  padding: 3px 16px;
+  background: #ffffff;
+  color: #151515;
+  font-size: 16px;
   font-weight: 500;
-  line-height: 1.6;
 }
 
-/* Position or degree */
+/* Italic role or degree */
 body.academic-site .main-content .cv-role {
   margin: 0 0 6px;
-  color: var(--text);
+  color: #151515;
   font-size: 16px;
   font-style: italic;
   text-align: left;
 }
 
-/* Location and department */
-body.academic-site .main-content .cv-detail {
-  margin: 0;
-  color: var(--muted);
-  font-size: 14px;
-  line-height: 1.7;
-  text-align: left;
-}
-
-/* Thesis description */
+/* Supporting details */
+body.academic-site .main-content .cv-detail,
 body.academic-site .main-content .cv-thesis {
-  margin: 10px 0 0;
-  color: var(--muted);
+  margin: 6px 0 0;
+  color: #454545;
   font-size: 14px;
-  line-height: 1.7;
   text-align: left;
 }
 
-/* Brighter blue in dark mode */
-body.academic-site.dark-mode .cv-timeline {
-  --timeline-blue: #91c9ef;
+/* Dark-mode compatibility */
+body.academic-site.dark-mode .main-content .cv-timeline {
+  --cv-blue: #91c9ef;
+  --cv-background: #1a222d;
 }
 
-/* Smaller headings on phones */
-@media (max-width: 600px) {
-  body.academic-site .main-content .cv-institution {
-    font-size: 16px;
-  }
+body.academic-site.dark-mode .main-content .cv-date {
+  background: #253140;
+  color: #edf2f7;
+}
 
-  .academic-site .cv-date {
-    font-size: 14px;
-  }
+body.academic-site.dark-mode .main-content .cv-role,
+body.academic-site.dark-mode .main-content .cv-detail,
+body.academic-site.dark-mode .main-content .cv-thesis {
+  color: #edf2f7;
 }
