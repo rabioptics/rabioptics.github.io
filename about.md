@@ -31,7 +31,7 @@ title: About me
 .cv-institution {
   margin: 0 0 8px;
   color: #2f63c9;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 1.4;
@@ -42,7 +42,7 @@ title: About me
   padding: 4px 16px;
   background: #f1f3f6;
   color: #222222;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 600;
 }
 .cv-role {
@@ -54,7 +54,7 @@ title: About me
 .cv-detail {
   margin: 0;
   color: #666666;
-  font-size: 14px;
+  font-size: 13px;
   text-align: left !important;
 }
 </style>
