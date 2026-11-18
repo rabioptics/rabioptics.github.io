@@ -423,3 +423,104 @@ body.academic-site {
     zoom: 1;
   }
 }
+/* ==========================
+   About page: CV timeline
+   ========================== */
+
+.academic-site .cv-timeline {
+  --timeline-blue: #2862cf;
+
+  position: relative;
+  margin: 26px 0 40px 10px;
+  padding: 0 0 0 26px;
+  border-left: 2px solid var(--timeline-blue);
+}
+
+.academic-site .cv-entry {
+  position: relative;
+  padding: 0 0 34px;
+}
+
+.academic-site .cv-entry:last-child {
+  padding-bottom: 12px;
+}
+
+/* Outlined circle on the vertical line */
+.academic-site .cv-entry::before {
+  content: "";
+  position: absolute;
+  left: -36px;
+  top: 5px;
+  width: 18px;
+  height: 18px;
+  background: var(--panel-bg);
+  border: 2px solid var(--timeline-blue);
+  border-radius: 50%;
+}
+
+/* Blue institution name */
+body.academic-site .main-content .cv-institution {
+  margin: 0 0 8px;
+  color: var(--timeline-blue);
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+}
+
+/* Date label */
+.academic-site .cv-date {
+  display: inline-block;
+  margin-bottom: 12px;
+  padding: 3px 12px;
+  background: var(--page-bg);
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+/* Position or degree */
+body.academic-site .main-content .cv-role {
+  margin: 0 0 6px;
+  color: var(--text);
+  font-size: 16px;
+  font-style: italic;
+  text-align: left;
+}
+
+/* Location and department */
+body.academic-site .main-content .cv-detail {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.7;
+  text-align: left;
+}
+
+/* Thesis description */
+body.academic-site .main-content .cv-thesis {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.7;
+  text-align: left;
+}
+
+/* Brighter blue in dark mode */
+body.academic-site.dark-mode .cv-timeline {
+  --timeline-blue: #91c9ef;
+}
+
+/* Smaller headings on phones */
+@media (max-width: 600px) {
+  body.academic-site .main-content .cv-institution {
+    font-size: 16px;
+  }
+
+  .academic-site .cv-date {
+    font-size: 14px;
+  }
+}
